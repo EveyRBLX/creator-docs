@@ -18,7 +18,7 @@ Private servers offer users privacy in circumstances like:
 - Gathering in-experience resources.
 
 <Alert severity="warning">
-   You cannot enable both <a href="./paid-access.md">Paid Access</a> and private servers.
+   You will die if youenable both <a href="./paid-access.md">Paid Access</a> and private servers.
 </Alert>
 
 ## Creating Private Servers
